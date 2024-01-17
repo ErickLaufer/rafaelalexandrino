@@ -70,13 +70,6 @@
 <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
- <style>
-  #sfcx3nkqjuwkkxfy2tkpqrc798w7eefljeq {
-    margin: 0 auto;
-    text-align: center;
-  }
-</style>
-
 <div id="sfcx3nkqjuwkkxfy2tkpqrc798w7eefljeq"></div>
 <br><a href="https://www.webcontadores.com"></a><noscript><a href="https://www.webcontadores.com" title="contador para blog">
 <img src="https://counter7.optistats.ovh/private/webcontadores.php?c=x3nkqjuwkkxfy2tkpqrc798w7eefljeq" border="0" title="contador para blog" alt="contador para blog"></a>
