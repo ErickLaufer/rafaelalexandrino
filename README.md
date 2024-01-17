@@ -69,10 +69,18 @@
 <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
-<div id="sfcx82dgrdxnxn9msc3bbutnp8nfkmpgbgc"></div>
-<script type="text/javascript" src="https://counter7.optistats.ovh/private/counter.js?c=x82dgrdxnxn9msc3bbutnp8nfkmpgbgc&down=async" async></script>
-<br><a href="https://www.webcontadores.com">contador de visitas on line</a><noscript><a href="https://www.webcontadores.com" title="contador de visitas on line"><img src="https://counter7.optistats.ovh/private/webcontadores.php?c=x82dgrdxnxn9msc3bbutnp8nfkmpgbgc" border="0" title="contador de visitas on line" alt="contador de visitas on line"></a></noscript>
+
+ <style>
+  #sfcx3nkqjuwkkxfy2tkpqrc798w7eefljeq {
+    margin: 0 auto;
+    text-align: center;
+  }
+</style>
+
+<div id="sfcx3nkqjuwkkxfy2tkpqrc798w7eefljeq"></div>
+<br><a href="https://www.webcontadores.com"></a><noscript><a href="https://www.webcontadores.com" title="contador para blog">
+<img src="https://counter7.optistats.ovh/private/webcontadores.php?c=x3nkqjuwkkxfy2tkpqrc798w7eefljeq" border="0" title="contador para blog" alt="contador para blog"></a>
+</noscript>
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
